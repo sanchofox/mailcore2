@@ -4,7 +4,8 @@
 //
 //  Created by Gennaro Stanzione on 30/08/2019.
 //  Copyright © 2019 MailCore. All rights reserved.
-//
+//  rif. https://medium.com/@hello_73586/how-to-import-objective-c-framework-in-swift-framework-eeb731231099
+
 
 #import <UIKit/UIKit.h>
 
